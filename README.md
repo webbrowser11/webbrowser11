@@ -5,4 +5,4 @@ we suggest you check these repo's out:
 + https://github.com/webbrowser11/skyOS
 + https://github.com/webbrowser11/pal-package-manager
 + https://webbrowser11.github.io/Alter-Net-codes/
-thank you for checking us out!
++ thank you for checking us out!
