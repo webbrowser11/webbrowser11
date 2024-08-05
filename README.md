@@ -6,4 +6,4 @@ we suggest you check these repo's out:
 + [alternet codes webpage](https://webbrowser11.github.io/Alter-Net-codes/)
 + thank you for checking us out!
 
-**NOTE** : please **fork** and **contribute** to the SkyOS projects
+**NOTE** : please **fork** and **contribute** to the SkyOS project
