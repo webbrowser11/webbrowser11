@@ -3,8 +3,8 @@ a small programming company (3 people) that likes to make your evryday life easi
 we suggest you check these repo's out:
 + [skyOS](https://github.com/Alter-Net-codes/SkyOS)
 + [alternet codes webpage](https://webbrowser11.github.io/Alter-Net-codes/)
-+ [PYRO](https://webbrowser11.github.io/Alter-Net-codes/)
-+ [YouDOS python](https://webbrowser11.github.io/Alter-Net-codes/)
++ [PYRO](https://github.com/Alter-Net-codes/Pyro)
++ [YouDOS python](https://github.com/Alter-Net-codes/Pyro)
 + thank you for checking us out!
 
 **NOTE** : please **fork** and **contribute** to the SkyOS project
