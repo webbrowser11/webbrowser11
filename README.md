@@ -6,4 +6,4 @@ we suggest you check these repo's out:
 + [GitURL](https://github.com/Alter-Net-codes/GitURL)
 + thank you for checking us out!
 
-**NOTE** : please **fork** and **contribute** to the SkyOS project
+**NOTE** : please **fork** and **contribute** to the SkyOS project we are so close to fixing all the bugs and fnishing it.
