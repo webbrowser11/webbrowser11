@@ -8,12 +8,13 @@ we suggest you check these repo's out:
 + thank you for checking us out!
 
 # me
+## fun fact
 well... i was the photographer of the "ducks" backdrop in penguin mod
 ## relationship stautus
 im a single programmer and photographer/filmaker/beatmaker
 
 ## irl status
-SICK + just contributed to penguin mod
+SICK, working on GitURL
 
 ## a note
 **NOTE** : please **fork** and **contribute** to the SkyOS project we are so close to fixing all the bugs and finishing it.
