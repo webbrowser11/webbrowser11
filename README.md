@@ -1,6 +1,6 @@
 # my LLC
 ## Welcome to AlterNet codes!
-a small programming company (3 people) that likes to make your evryday life easier!
+a small programming company (3 people) that likes to make your every-day life easier!
 we suggest you check these repo's out:
 + [skyOS](https://github.com/Alter-Net-codes/SkyOS)
 + [alternet codes webpage](https://webbrowser11.github.io/Alter-Net-codes/)
@@ -16,4 +16,4 @@ im a single programmer and photographer/filmaker/beatmaker
 SICK + just contributed to penguin mod
 
 ## a note
-**NOTE** : please **fork** and **contribute** to the SkyOS project we are so close to fixing all the bugs and fnishing it.
+**NOTE** : please **fork** and **contribute** to the SkyOS project we are so close to fixing all the bugs and finishing it.
