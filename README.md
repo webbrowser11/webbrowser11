@@ -15,4 +15,5 @@ im a single programmer and photographer/filmaker/beatmaker
 ## irl status
 SICK + just contributed to penguin mod
 
+## a note
 **NOTE** : please **fork** and **contribute** to the SkyOS project we are so close to fixing all the bugs and fnishing it.
