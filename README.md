@@ -8,7 +8,7 @@ we suggest you check these repo's out:
 + thank you for checking us out!
 
 # me
-
+well... i was the photographer of the "ducks" backdrop in penguin mod
 ## relationship stautus
 im a single programmer and photographer/filmaker/beatmaker
 
