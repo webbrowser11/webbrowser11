@@ -14,7 +14,7 @@ well... i was the photographer of the "ducks" backdrop in penguin mod
 im a single programmer and photographer/filmaker/beatmaker
 
 ## irl status
-SICK, just finished making my "shell" C application
+doing nothing. help me.
 
 ## a note
 **NOTE** : please **fork** and **contribute** to the SkyOS project we are so close to fixing all the bugs and finishing it.
