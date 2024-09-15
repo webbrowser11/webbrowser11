@@ -10,6 +10,7 @@ we suggest you check these repo's out:
 # me
 ## fun fact
 well... i was the photographer of the "ducks" backdrop in penguin mod
+![ducks](https://github.com/webbrowser11/webbrowser11/blob/main/images/ducks.jpg)
 ## relationship stautus
 im a single programmer and photographer/filmaker/beatmaker
 
