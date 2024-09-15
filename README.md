@@ -18,3 +18,6 @@ im a single programmer and photographer/filmaker/beatmaker
 happy 😄, did some stuff to my email bot (yes i made it public)
 ## a note
 **NOTE** : please **fork** and **contribute** to the SkyOS project we are so close to fixing all the bugs and finishing it.
+
+# happy coding!
+![ducks](https://github.com/webbrowser11/webbrowser11/blob/main/images/lofi.gif)
