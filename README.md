@@ -16,6 +16,9 @@ im a single programmer and photographer/filmaker/beatmaker
 
 ## irl status
 happy 😄, did some stuff to my email bot (yes i made it public)
+was just working on this:
+[music](https://www.bandlab.com/track/0325464f-d473-ef11-bdfd-000d3a96c7c8?revId=0225464f-d473-ef11-bdfd-000d3a96c7c8)
+(imma go to sleep soon i am tired)
 ## a note
 **NOTE** : please **fork** and **contribute** to the SkyOS project we are so close to fixing all the bugs and finishing it.
 
