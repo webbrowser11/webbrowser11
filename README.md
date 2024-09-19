@@ -23,4 +23,4 @@ was just working on this:
 **NOTE** : please **fork** and **contribute** to the SkyOS project we are so close to fixing all the bugs and finishing it.
 
 # happy coding!
-![ducks](https://github.com/webbrowser11/webbrowser11/blob/main/images/lofi.gif)
+![coding gif](https://github.com/webbrowser11/webbrowser11/blob/main/images/lofi.gif)
