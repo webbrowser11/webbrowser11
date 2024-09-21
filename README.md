@@ -11,13 +11,23 @@ we suggest you check these repo's out:
 ## fun fact
 well... i was the photographer of the "ducks" backdrop in penguin mod
 ![ducks](https://github.com/webbrowser11/webbrowser11/blob/main/images/ducks.jpg)
+
+## my development stack
+### programming languages
+<a href="https://www.python.org" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
+<a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
+
+### tools i use
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+  <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
+
 ## relationship stautus
 im a single programmer and photographer/filmaker/beatmaker
 
 ## irl status
-happy 😄, did some stuff to my email bot (yes i made it public)
-was just working on this:
-[music](https://www.bandlab.com/track/0325464f-d473-ef11-bdfd-000d3a96c7c8?revId=0225464f-d473-ef11-bdfd-000d3a96c7c8)
+happy 😄, working on my data stuff project
 ## a note
 **NOTE** : please **fork** and **contribute** to the SkyOS project we are so close to fixing all the bugs and finishing it.
 
