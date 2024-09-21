@@ -1,4 +1,4 @@
-# my LLC
+# Alter Net codes
 ## Welcome to AlterNet codes!
 a small programming company (3 people) that likes to make your every-day life easier!
 we suggest you check these repo's out:
@@ -19,7 +19,7 @@ well... i was the photographer of the "ducks" backdrop in penguin mod
 <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer">
   <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/>
 
-### tools i use
+### tools i use <why is it underlined here
 <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/>
 
