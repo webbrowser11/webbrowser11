@@ -29,4 +29,9 @@ i was the photographer of the "ducks" backdrop in penguin mod
 ---
 [![](https://visitcount.itsvg.in/api?id=Webbrowser11&icon=0&color=0)](https://visitcount.itsvg.in)
 
+## status
+happy 😄, not really doing anything today.
+## a note
+**NOTE** : please **fork** and **contribute** to the SkyOS project we are so close to fixing all the bugs and finishing it.
+
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
