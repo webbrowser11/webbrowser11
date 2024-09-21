@@ -21,5 +21,4 @@ was just working on this:
 ## a note
 **NOTE** : please **fork** and **contribute** to the SkyOS project we are so close to fixing all the bugs and finishing it.
 
-# happy coding!
-![coding gif](https://github.com/webbrowser11/webbrowser11/blob/main/images/lofi.gif)
+[![](https://visitcount.itsvg.in/api?id=webbrowser11&label=Profile%20Views&color=0&icon=0&pretty=false)](https://visitcount.itsvg.in)
