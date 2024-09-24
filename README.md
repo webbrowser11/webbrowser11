@@ -1,10 +1,10 @@
 # Alter Net codes
-a small programming company (3 people) that likes to make your every-day life easier!
+Alter Net codes is a small programming company (3 people) that likes to make your every-day life easier!
 we suggest you check these repo's out:
 + [SkyOS](https://github.com/Alter-Net-codes/SkyOS)
 + [Alter Net codes webpage](https://webbrowser11.github.io/Alter-Net-codes/)
 + [GitURL](https://github.com/Alter-Net-codes/GitURL)
-+ thank you for checking us out!
++ Thank you for checking us out!
 
 # My gists
 [Gists](https://gist.github.com/webbrowser11)
