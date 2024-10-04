@@ -41,7 +41,7 @@ i was the photographer of the "ducks" backdrop in penguin mod
 [![](https://visitcount.itsvg.in/api?id=Webbrowser11&icon=0&color=0)](https://visitcount.itsvg.in)
 
 ## status
-working on a new short film series called 808 (only availible on scratch for now coming to youtube once all episodes are finished)
+doing nothing really
 ## a note
 **NOTE** : please **fork** and **contribute** to the SkyOS project we are so close to fixing all the bugs and finishing it.
 
