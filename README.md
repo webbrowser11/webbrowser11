@@ -3,6 +3,8 @@ when my sister showed me scratch 2 years ago my world changed. and 2 years and 4
 but one day i wanted to go further and learn python so here i am now.
 by the way if you are seeing this go follow @pikapopcorn he is an awesome guy!
 
+# Merry Christmas! 🎅❄️🎄
+
 # Alter Net codes
 Alter Net codes is a small programming company (3 people) that likes to make your every-day life easier!
 we suggest you check these repo's out:
