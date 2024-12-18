@@ -4,7 +4,7 @@ but one day i wanted to go further and learn python so here i am now.
 by the way if you are seeing this go follow @pikapopcorn he is an awesome guy!
 
 # Merry Christmas! 🎅❄️🎄
-So close to that new laptop! i will be bulding a lot more after i get it so watch out!
+So close to that new laptop! i will be bulding a lot more after i get it so watch out! btw, some devtools just dropped in [SkyOS](https://github.com/Alter-Net-codes/SkyOS) go check em out
 
 # Alter Net codes
 Alter Net codes is a small programming company (3 people) that likes to make your every-day life easier!
