@@ -13,6 +13,9 @@ we suggest you check these repo's out:
 + [GitURL](https://github.com/Alter-Net-codes/GitURL)
 + Thank you for checking us out!
 
+# Spotify
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316kxnthu5q2i3bom4i4unwqfote&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=316kxnthu5q2i3bom4i4unwqfote&redirect=true)
+
 # My gists
 [Gists](https://gist.github.com/webbrowser11)
 
