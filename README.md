@@ -4,7 +4,7 @@ but one day i wanted to go further and learn python and other real languages. so
 by the way if you are seeing this go follow [pikapopcorn](https://github.com/pikapopcorn) he is an awesome guy!
 
 # Alter Net codes
-Alter Net codes is a small programming company (3 people) that likes to make your every-day life easier!
+Alter Net codes is a small programming company (5 people) that likes to make your every-day life easier!
 we suggest you check these repo's out:
 + [SkyOS](https://github.com/Alter-Net-codes/SkyOS)
 + [Alter Net codes webpage](https://sites.google.com/loswego.k12.or.us/anc/)
