@@ -1,3 +1,5 @@
+<!-- HELP ME GO TO SLEEP IT IS LIKE ONE -->
+
 # what got you into coding?
 when my sister showed me scratch 3 years ago my world changed. and 3 years and 4 accounts later, im still going strong.
 but one day i wanted to go further and learn python and other real languages. so here i am now.
