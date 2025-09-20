@@ -16,7 +16,7 @@ We suggest you check these repo's out:
 + Thank you for checking us out!
 
 # SegaCoin
-Working on a reqards coin with my freinds, join the [discord](https://discord.gg/94rjEjJY8a)
+Working on a rewards coin with my freinds, join the [discord.](https://discord.gg/94rjEjJY8a)
 
 # Spotify
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316kxnthu5q2i3bom4i4unwqfote&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=316kxnthu5q2i3bom4i4unwqfote&redirect=true)
