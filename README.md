@@ -19,7 +19,7 @@ We suggest you check these repo's out:
 Working on a rewards coin with my freinds, join the [discord.](https://discord.gg/94rjEjJY8a)
 
 # Spotify
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=316kxnthu5q2i3bom4i4unwqfote&cover_image=true&theme=default&show_offline=true&background_color=121212&interchange=false&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.kittinanx.com/api/view?uid=316kxnthu5q2i3bom4i4unwqfote&redirect=true)
+[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mzhszcdij7i5lf6n2cj6mnl6li&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
 # My gists
 [Gists](https://gist.github.com/webbrowser11)
