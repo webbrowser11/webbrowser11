@@ -4,7 +4,7 @@
 <!-- HELP ME GO TO SLEEP IT IS LIKE FOUR -->
 
 # What got you into coding?
-When my sister showed me scratch 3 years ago my world changed. And 3 years and 4 accounts later, i'm still going strong.
+When my sister showed me scratch 3 years ago my world changed. And 3 years and 4 scratch accounts later, i'm still going strong.
 but one day I wanted to go farther and learn python and other real languages. So here I am now.
 By the way if you are seeing this go follow [pikapopcorn](https://github.com/pikapopcorn) he is an awesome guy!
 
