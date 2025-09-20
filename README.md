@@ -21,7 +21,7 @@ We suggest you check these repo's out:
 # My gists
 [Gists](https://gist.github.com/webbrowser11)
 
-## fun fact
+## Fun fact
 I was the photographer of the "ducks" backdrop in penguin mod.
 ![ducks](https://github.com/webbrowser11/webbrowser11/blob/main/images/ducks.jpg)
 
