@@ -3,17 +3,16 @@
 <!-- HELP ME GO TO SLEEP IT IS LIKE THREE -->
 <!-- HELP ME GO TO SLEEP IT IS LIKE FOUR -->
 
-# what got you into coding?
-when my sister showed me scratch 3 years ago my world changed. and 3 years and 4 accounts later, im still going strong.
-but one day i wanted to go further and learn python and other real languages. so here i am now.
-by the way if you are seeing this go follow [pikapopcorn](https://github.com/pikapopcorn) he is an awesome guy!
+# What got you into coding?
+When my sister showed me scratch 3 years ago my world changed. And 3 years and 4 accounts later, i'm still going strong.
+but one day I wanted to go farther and learn python and other real languages. So here I am now.
+By the way if you are seeing this go follow [pikapopcorn](https://github.com/pikapopcorn) he is an awesome guy!
 
 # Alter Net codes
 Alter Net codes is a small programming company (5 people) that likes to make your every-day life easier!
-we suggest you check these repo's out:
+We suggest you check these repo's out:
 + [SkyOS](https://github.com/Alter-Net-codes/SkyOS)
 + [Alter Net codes webpage](https://sites.google.com/loswego.k12.or.us/anc/)
-+ [GitURL](https://github.com/Alter-Net-codes/GitURL)
 + Thank you for checking us out!
 
 # Spotify
@@ -23,13 +22,13 @@ we suggest you check these repo's out:
 [Gists](https://gist.github.com/webbrowser11)
 
 ## fun fact
-I was the photographer of the "ducks" backdrop in penguin mod
+I was the photographer of the "ducks" backdrop in penguin mod.
 ![ducks](https://github.com/webbrowser11/webbrowser11/blob/main/images/ducks.jpg)
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thecreekstudios)
-[![BandLab](https://img.shields.io/badge/bandlab-%23FF0000.svg?logo=bandlab&logoColor=white)](https://www.bandlab.com/false_windows)
-[![Bandcamp](https://img.shields.io/badge/bandcamp-%23FF0000.svg?logo=bandcamp&logoColor=white)](https://falsewindows.bandcamp.com)
+[![BandLab](https://img.shields.io/badge/bandlab-%23FF0000.svg?logo=bandlab&logoColor=white)](https://www.bandlab.com/pacific_northwest)
+[![Bandcamp](https://img.shields.io/badge/bandcamp-%23FF0000.svg?logo=bandcamp&logoColor=white)](https://pacificnorth.bandcamp.com)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
