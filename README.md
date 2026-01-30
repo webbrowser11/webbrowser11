@@ -15,9 +15,6 @@ We suggest you check these repo's out:
 + [Alter Net codes webpage](https://sites.google.com/loswego.k12.or.us/anc/)
 + Thank you for checking us out!
 
-# SegaCoin
-Working on a rewards coin with my freinds, join the [discord.](https://discord.gg/94rjEjJY8a)
-
 # Spotify
 [![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=31mzhszcdij7i5lf6n2cj6mnl6li&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false)](https://github.com/kittinan/spotify-github-profile)
 
