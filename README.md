@@ -9,7 +9,7 @@ but one day I wanted to go farther and learn python and other real languages. So
 By the way if you are seeing this go follow [pikapopcorn](https://github.com/pikapopcorn) he is an awesome guy!
 
 # WakaTime
-[![wakatime](https://wakatime.com/badge/user/99e9ab90-99e9-4256-bba0-b5bc52cdd8ed.svg)](https://wakatime.com/@99e9ab90-99e9-4256-bba0-b5bc52cdd8ed)
+[![WakaTime](https://wakatime.com/badge/user/99e9ab90-99e9-4256-bba0-b5bc52cdd8ed.svg)](https://wakatime.com/@99e9ab90-99e9-4256-bba0-b5bc52cdd8ed)
 
 # Alter Net codes
 Alter Net codes is a small programming company (5 people) that likes to make your every-day life easier!
