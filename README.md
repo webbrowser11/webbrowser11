@@ -8,6 +8,9 @@ When my sister showed me scratch 3 years ago my world changed. And 3 years and 4
 but one day I wanted to go farther and learn python and other real languages. So here I am now.
 By the way if you are seeing this go follow [pikapopcorn](https://github.com/pikapopcorn) he is an awesome guy!
 
+# WakaTime
+[![wakatime](https://wakatime.com/badge/user/99e9ab90-99e9-4256-bba0-b5bc52cdd8ed.svg)](https://wakatime.com/@99e9ab90-99e9-4256-bba0-b5bc52cdd8ed)
+
 # Alter Net codes
 Alter Net codes is a small programming company (5 people) that likes to make your every-day life easier!
 We suggest you check these repo's out:
@@ -54,6 +57,4 @@ I was the photographer of the "ducks" backdrop in penguin mod.
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Webbrowser11&icon=0&color=0)](https://visitcount.itsvg.in)
-
-[![wakatime](https://wakatime.com/badge/user/99e9ab90-99e9-4256-bba0-b5bc52cdd8ed.svg)](https://wakatime.com/@99e9ab90-99e9-4256-bba0-b5bc52cdd8ed)
+[![](https://visitcount.itsvg.in/api?id=Webbrowser11&icon=0&color=0)](https://visitcount.itsvg.in)\
