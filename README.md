@@ -30,8 +30,9 @@ I was the photographer of the "ducks" backdrop in penguin mod.
 
 ## 🌐 Socials:
 [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@thecreekstudios)
-[![BandLab](https://img.shields.io/badge/bandlab-%23FF0000.svg?logo=bandlab&logoColor=white)](https://www.bandlab.com/pacific_northwest)
-[![Bandcamp](https://img.shields.io/badge/bandcamp-%23FF0000.svg?logo=bandcamp&logoColor=white)](https://pacificnorth.bandcamp.com)
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@KyprixGD)
+[![BandLab](https://img.shields.io/badge/bandlab-%23FF0000.svg?logo=bandlab&logoColor=white)](https://www.bandlab.com/whatscriticalmusic)
+[![Bandcamp](https://img.shields.io/badge/bandcamp-%23FF0000.svg?logo=bandcamp&logoColor=white)](https://whatscriticalmusic.bandcamp.com)
 
 # 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
